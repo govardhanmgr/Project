@@ -11,7 +11,7 @@ export interface mgmtexp {
     paymentdate:string;
     creationdate:string;
     createdby:bigint;
-    id:bigint;
+
 
 }
 export interface Createmgmtexp {
